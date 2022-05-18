@@ -129,7 +129,7 @@ textarea{
           margin-top: 16px;
       }
 
-      /* for mobile */
+      /* for mobile 
       @media screen and (max-width: 767px) {
           .whatsapp-icon {
               margin-top: 10px;
@@ -142,7 +142,7 @@ textarea{
               right: 10px;
               font-size: 25px;
           }
-      }
+      }*/
 p{
 	position:relative;
 	line-height:1.8em;	
